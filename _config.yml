@@ -56,7 +56,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "ChemSymphoria <typeout> 2024"
+heroTitle: "Chem Symphoria <typeout> 2024"
 eventDate: "December, 2024"
 # typeoutTextValues: '"Chemistry", "Science", "Research", "Presentations"'
 typeoutTextValues: '"IISER Pune "'
@@ -66,7 +66,7 @@ typeoutTextValues: '"IISER Pune "'
 #  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About ChemSymphoria"
+aboutTitle: "About Chem Symphoria"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Event loaded with scientific talks followed by rigorous discussions" }
 #  - {title: "E", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
