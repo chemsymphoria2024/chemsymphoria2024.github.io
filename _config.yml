@@ -205,7 +205,15 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "We are a dynamic group of passionate PhD scholars united by a deep love for chemistry.
+ Our team serves as a collaborative platform, fostering a vibrant scientific environment for learning, 
+ innovation, and growth. Each year, we organize an Intra-Departmental Chemistry Conference,'ChemSymphoria',
+  providing an opportunity for students and researchers to showcase their work, engage in interdisciplinary
+  discussions, and gain insights from renowned speakers. In addition to the conference, we host a range of
+   academic and social events, including Freshers' Meets, Farewell Ceremonies, and various other departmental
+    activities that strengthen our community bonds.Whether you are an aspiring chemist or a seasoned researcher,
+     the ChemPhilic Team offers a wealth of opportunities for professional development, networking, and forging 
+     lasting connections. Join us as we explore the endless possibilities of chemical sciences together!"
 
 # Logistics Find Way Block
 # findWayTitle: "Find your way here"
