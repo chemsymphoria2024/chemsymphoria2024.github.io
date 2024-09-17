@@ -1,0 +1,83 @@
+-
+  id: 111
+  title: "Tea Break"
+  # place: "Hall"
+  # service: true
+  description: "The best time to talk with speakers and attendees"
+
+-
+  id: 1111
+  title: "Lunch Break"
+  # place: "Dining room"
+  service: true
+
+-
+  id: 001
+  title: "Welcome by the President"
+  description: "The development of efficient and sustainable chemical processes is essential in addressing 
+          the environmental challenges posed by industrial practices. This talk focuses on the
+          pivotal role of catalysts in facilitating greener chemical reactions, particularly 
+          in the context of energy conservation and waste minimization. We will delve into recent
+          advancements in heterogeneous and homogeneous catalysis, examining how these innovations 
+          contribute to improved reaction rates and selectivity. Special attention will 
+          be given to the design of new catalytic systems that enable the conversion
+          of renewable feedstocks into valuable chemicals with reduced energy input."
+  speakers: []
+  language: en
+
+-
+  id: 002
+  title: "This serves as the title for the presentation 1."
+  description: "The development of efficient and sustainable chemical processes is essential in addressing 
+          the environmental challenges posed by industrial practices. This talk focuses on the
+          pivotal role of catalysts in facilitating greener chemical reactions, particularly 
+          in the context of energy conservation and waste minimization. We will delve into recent
+          advancements in heterogeneous and homogeneous catalysis, examining how these innovations 
+          contribute to improved reaction rates and selectivity. Special attention will 
+          be given to the design of new catalytic systems that enable the conversion
+          of renewable feedstocks into valuable chemicals with reduced energy input."  
+  speakers: [1002]
+  language: en
+
+-
+  id: 003
+  title: "This serves as the title for the presentation 2."
+  description: "The development of efficient and sustainable chemical processes is essential in addressing 
+          the environmental challenges posed by industrial practices. This talk focuses on the
+          pivotal role of catalysts in facilitating greener chemical reactions, particularly 
+          in the context of energy conservation and waste minimization. We will delve into recent
+          advancements in heterogeneous and homogeneous catalysis, examining how these innovations 
+          contribute to improved reaction rates and selectivity. Special attention will 
+          be given to the design of new catalytic systems that enable the conversion
+          of renewable feedstocks into valuable chemicals with reduced energy input."  
+  speakers: [1003]
+  language: en
+
+-
+  id: 004
+  title: "This serves as the title for the presentation 3."
+  description: "The development of efficient and sustainable chemical processes is essential in addressing 
+          the environmental challenges posed by industrial practices. This talk focuses on the
+          pivotal role of catalysts in facilitating greener chemical reactions, particularly 
+          in the context of energy conservation and waste minimization. We will delve into recent
+          advancements in heterogeneous and homogeneous catalysis, examining how these innovations 
+          contribute to improved reaction rates and selectivity. Special attention will 
+          be given to the design of new catalytic systems that enable the conversion
+          of renewable feedstocks into valuable chemicals with reduced energy input."  
+  speakers: [1004]
+  language: en
+
+-
+  id: 005
+  title: "This serves as the title for the presentation 4."
+  description: "The development of efficient and sustainable chemical processes is essential in addressing 
+          the environmental challenges posed by industrial practices. This talk focuses on the
+          pivotal role of catalysts in facilitating greener chemical reactions, particularly 
+          in the context of energy conservation and waste minimization. We will delve into recent
+          advancements in heterogeneous and homogeneous catalysis, examining how these innovations 
+          contribute to improved reaction rates and selectivity. Special attention will 
+          be given to the design of new catalytic systems that enable the conversion
+          of renewable feedstocks into valuable chemicals with reduced energy input."  
+  speakers: [1005]
+  language: en
+

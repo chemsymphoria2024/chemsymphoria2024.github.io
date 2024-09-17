@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="58.486229mm"
+   height="39.450771mm"
+   viewBox="0 0 58.486229 39.450771"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-73.883859,-63.590242)">
+    <g
+       id="g4">
+      <rect
+         style="fill:#999999;stroke:#959595;stroke-width:0.139;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect4"
+         width="58.347233"
+         height="39.311768"
+         x="73.953362"
+         y="63.659744"
+         ry="0.029370591" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:#959595;stroke-width:0.264583;stroke-opacity:1"
+         x="81.647736"
+         y="79.48642"
+         id="text2"><tspan
+           id="tspan2"
+           style="fill:#0000ff;stroke:#959595;stroke-width:0.264583;stroke-opacity:1"
+           x="81.647736"
+           y="79.48642">Sponsor </tspan><tspan
+           style="font-weight:bold;fill:#0000ff;stroke:#959595;stroke-width:0.264583;stroke-opacity:1"
+           x="81.647736"
+           y="92.715546"
+           id="tspan4">  Logo</tspan><tspan
+           style="fill:#0000ff;stroke:#959595;stroke-width:0.264583;stroke-opacity:1"
+           x="81.647736"
+           y="105.94467"
+           id="tspan3" /></text>
+    </g>
+  </g>
+</svg>

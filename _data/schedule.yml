@@ -1,0 +1,264 @@
+# day 1 welcome
+- 
+  date: "2014-10-24"
+  dateReadable: "Day 1: December 2, 2024"
+  tracks: 
+    - {title: "Welcome ", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [001]
+    }
+
+# day 1 Session 1
+-
+
+  tracks: 
+    - {title: "Session I", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [004]
+    }
+# day 1 tea break I 
+-
+
+  tracks: 
+    - {title: " ", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [111]
+    }
+# day 1 session II
+-
+
+  tracks: 
+    - {title: "Session II", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [003]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [004]
+    }
+# day 1 Lunch time
+-
+
+  tracks: 
+    - {title: " ", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [1111]
+    }
+# day 1 session III
+-
+
+  tracks: 
+    - {title: "Session III", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [003]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [004]
+    }
+# day 1 tea break II
+-
+
+  tracks: 
+    - {title: " ", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [111]
+    }
+# day 1 tea session IV
+-
+
+  tracks: 
+    - {title: "Session IV", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [003]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [004]
+    }
+# end  of the  day 1
+# begining of day 2
+
+# day 2 Session 1
+-
+  date: "2024-12-03"
+  dateReadable: "Day 2: December 2, 2024"
+  tracks: 
+    - {title: "Session I", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [004]
+    }
+# day 2 tea break I 
+-
+
+  tracks: 
+    - {title: " ", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [111]
+    }
+# day 2 session II
+-
+
+  tracks: 
+    - {title: "Session II", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [003]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [004]
+    }
+# day 2 Lunch time
+-
+
+  tracks: 
+    - {title: " ", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [1111]
+    }
+# day 2 session III
+-
+
+  tracks: 
+    - {title: "Session III", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [003]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [004]
+    }
+# day 2 tea break II
+-
+
+  tracks: 
+    - {title: " ", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [111]
+    }
+# day 2 tea session IV
+-
+
+  tracks: 
+    - {title: "Session IV", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [003]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [004]
+    }
+# end  of the  day 2

@@ -1,0 +1,45 @@
+- 
+  id: 10
+  name: "Prof. Pramod"
+  surname: "Pillai"
+  title: "President Chemphilic Team"
+  thumbnailUrl: pramod.jpg
+  team: true
+  # ribbon: 
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social: 
+  #   - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+  #   - {name: "github", link: "https://github.com/zasadnyy"}
+  #   - {name: "site", link: "http://zasadnyy.com/"}
+- 
+  id: 12
+  name: "First2"
+  surname: "Surname"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: profile.png
+  team: true
+- 
+
+  id: 13
+  name: "First3"
+  surname: "Surname"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: profile.png
+  team: true
+- 
+
+  id: 14
+  name: "First4"
+  surname: "Surname"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: profile.png
+  team: true
+- 
+
+  id: 15
+  name: "First"
+  surname: "Surname"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: profile.png
+  team: true
