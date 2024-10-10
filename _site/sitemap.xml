@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2014/07/21/hello-world/</loc>
-<lastmod>2014-07-21T13:30:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2014/07/21/call-for-papers/</loc>
-<lastmod>2014-07-21T14:30:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/cod/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/gallery/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -22,17 +17,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/team/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/blog.html</loc>
-<lastmod>2024-09-13T23:08:42+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/hackathon.html</loc>
-<lastmod>2024-09-13T23:06:52+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/logistics.html</loc>
-<lastmod>2024-09-13T12:04:25+05:30</lastmod>
 </url>
 </urlset>

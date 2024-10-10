@@ -40,18 +40,18 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         display: inline-block;
         float: left;
         width: 185px;
-        height: 80px;
+        height: 60px;
         margin-right: 20px;
-        transform: scale(.9);
+        transform: scale(.7);
         vertical-align: middle;
          @media (max-width: 767px) {
-            transform: scale(.8);
+            transform: scale(.6);
         }
     }
 }
 .logo-navbar {
     width: 185px;
-    height: 80px;
+    height: 60px;
     margin: 8px 20px 0 -10px;
     transform: scale(.6);
     vertical-align: middle;

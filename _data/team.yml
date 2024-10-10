@@ -5,25 +5,19 @@
   title: "President Chemphilic Team"
   thumbnailUrl: pramod.jpg
   team: true
-  # ribbon: 
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social: 
-  #   - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-  #   - {name: "github", link: "https://github.com/zasadnyy"}
-  #   - {name: "site", link: "http://zasadnyy.com/"}
+
 - 
   id: 12
-  name: "First2"
-  surname: "Surname"
+  name: "Akshay"
+  surname: "Chauhan"
   # title: "Sponsors and Speakers Manager"
   thumbnailUrl: profile.png
   team: true
 - 
 
   id: 13
-  name: "First3"
-  surname: "Surname"
+  name: "Uddipan"
+  surname: "Bhattacharya"
   # title: "Sponsors and Speakers Manager"
   thumbnailUrl: profile.png
   team: true
@@ -38,8 +32,8 @@
 - 
 
   id: 15
-  name: "First"
-  surname: "Surname"
+  name: "Pankaj"
+  surname: "Jangid"
   # title: "Sponsors and Speakers Manager"
   thumbnailUrl: profile.png
   team: true

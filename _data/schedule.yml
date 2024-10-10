@@ -1,6 +1,6 @@
 # day 1 welcome
 - 
-  date: "2014-10-24"
+  date: "2024-12-02"
   dateReadable: "Day 1: December 2, 2024"
   tracks: 
     - {title: "Welcome ", color: "#90be4e"}
@@ -10,7 +10,7 @@
     	endTime: "10:45",
     	sessionIds: [001]
     }
-
+    
 # day 1 Session 1
 -
 

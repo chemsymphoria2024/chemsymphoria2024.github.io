@@ -9,8 +9,8 @@ $extra-bold: 600;
 // Base Font
 $base-font-family: sans-serif;
 $base-font-weight: $regular;
-$base-font-size: 18px;
-$base-line-height: 23px;
+$base-font-size: 430px;
+$base-line-height: 123px;
 
 // Fixed Font
 $fixed-font-family: 'Roboto';
@@ -52,8 +52,6 @@ $long-cubic-transition: all .5s cubic-bezier(0.175, 0.885, 0.320, 1.275);
 // Path
 $image-dir: "../img";
 $sprites-dir: $image-dir + "/sprites";
-$logos-sprite-dark: $sprites-dir + "/logos-dark.svg";
-$logos-sprite-light: $sprites-dir + "/logos-light.svg";
-
+$logos-sprite: $sprites-dir + "/logos.svg";
 
 @import "modules/all";
