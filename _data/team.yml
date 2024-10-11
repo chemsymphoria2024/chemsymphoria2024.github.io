@@ -7,33 +7,189 @@
   team: true
 
 - 
-  id: 12
+  id: 11
   name: "Akshay"
   surname: "Chauhan"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: profile.png
+  thumbnailUrl: akshay.jpg
+  team: true
+- 
+
+  id: 12
+  name: "Uddipan "
+  surname: "Bhattacharya"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: uddipan.jpg
   team: true
 - 
 
   id: 13
-  name: "Uddipan"
-  surname: "Bhattacharya"
+  name: "Madhusudan"
+  surname: "Dutta"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: profile.png
+  thumbnailUrl: madhu.jpg
   team: true
 - 
 
   id: 14
-  name: "First4"
-  surname: "Surname"
-  # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: profile.png
-  team: true
-- 
-
-  id: 15
   name: "Pankaj"
   surname: "Jangid"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: profile.png
+  thumbnailUrl: pankaj.jpg
+  team: true
+-
+
+  id: 15
+  name: "Simran"
+  surname: "Gupta"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: simran.jpg
+  team: true
+
+-
+
+  id: 16
+  name: "Bhojkumar"
+  surname: "Nayak"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: bhoj.jpg
+  team: true
+
+-
+
+  id: 17
+  name: "Ashish"
+  surname: "Kumar"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: ashish.jpg
+  team: true
+
+-
+
+  id: 18
+  name: "Sauvik"
+  surname: "Saha"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: sauvik.jpg
+  team: true
+-
+
+  id: 19
+  name: "Shifali"
+  surname: "Dutt"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: shifali.jpg
+  team: true
+-
+
+  id: 20
+  name: "Zainab"
+  surname: "Amin"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: zainab.jpg
+  team: true
+
+-
+
+  id: 21
+  name: "Riteeka"
+  surname: "Tanwar"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: riteeka.jpg
+  team: true
+-
+
+  id: 22
+  name: "Brij"
+  surname: "Shah"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: brij.jpg
+  team: true
+-
+
+  id: 23
+  name: "Nilotpal"
+  surname: "Deka"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: nilo.jpg
+  team: true
+-
+
+  id: 24
+  name: "Pooja"
+  surname: "Thakral"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: nilo.jpg
+  team: true
+-
+
+  id: 25
+  name: "Sagarika"
+  surname: "Roy"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: nilo.jpg
+  team: true
+-
+
+  id: 26
+  name: "Pallavi"
+  surname: ""
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: nilo.jpg
+  team: true
+-
+
+  id: 27
+  name: "Vikash"
+  surname: "Kushwaha"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: nilo.jpg
+  team: true
+-
+
+  id: 28
+  name: "Ajay"
+  surname: "Ugale"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: nilo.jpg
+  team: true
+-
+
+  id: 29
+  name: "Kshitish"
+  surname: "Chandra"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: nilo.jpg
+  team: true
+-
+
+  id: 30
+  name: "Prachi"
+  surname: "Prakash"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: nilo.jpg
+  team: true
+-
+
+  id: 31
+  name: "Sonali"
+  surname: "Jadhav"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: sonali.jpg
+  team: true
+-
+
+  id: 32
+  name: "Bikarna"
+  surname: "Roy"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: bik.jpg
+  team: true
+-
+
+  id: 32
+  name: "Sourav"
+  surname: "Mandal"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: sourav.jpg
   team: true
