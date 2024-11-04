@@ -5,7 +5,7 @@
   company: "Dierctor IISER Pune"
   title: "Professor"
   bio: "A chemical engineer by training, Prof. Sunil Bhagwat was a faculty member at ICT Mumbai for about 35 years. Prof. Bhagwat's research is in the areas of interfacial science and engineering, energy and exergy engineering, computer process simulation, and artificial neural networks. He is passionate about teaching and was elected as the best teacher by students over ten times so far. In 2013, his research group won the first prize in the Bry-Air Asia awards for the HVAC for his work in the area of heat-based refrigeration. He was awarded NOCIL Award of the Indian Institute of Chemical Engineers for Excellence in Design or Development of Process Plant or Equipment in 2012 and the CSMCRI-Chemcon Distinguished Speaker Award at Chemcon Dec 2014. In 2016, the Indian National Science Academy (INSA) bestowed upon him the Best Teacher Award for the year 2016. In 2019, he was selected for the UDCT Alumni Association’s Distinguished Alumnus Award-Academic category. Prof. Bhagwat is an active consultant to a wide range of companies in the chemical industry. He has guided over seventy masters theses, over forty doctoral theses, has more than 100 international publications and over eighty national/ international conference presentations and ten national and international patents to his credit. "
-  thumbnailUrl: sunilsbhagwat2.jpg
+  thumbnailUrl: sunilsbhagwat.jpg
   rockstar: true
 
 - 
@@ -64,7 +64,13 @@
   surname: "Bhat"
   company: "Department of Chemistry IISER Pune"
   title: "Professor"
-  bio: "Prof. Ramakrishna G. Bhat earned a Ph.D. in Organic Chemistry from the Indian Institute of Science (IISc), Bangalore, in July 2004, where he specialized in synthetic organic chemistry and peptide synthesis under the supervision of Prof. S. Chandrasekaran. His research career has included various roles, starting as a postdoctoral fellow at Simon Fraser University, British Columbia, Canada, from 2004 to 2006, where he worked with Prof. B. M. Pinto.  In May 2007, Prof. Srivatsan began his tenure as an Assistant Professor, a position he held until January 2013, when he was promoted to Associate Professor. Since October 2019, he is working as a Professor. "
+  bio: "Prof. Ramakrishna G. Bhat earned a Ph.D. in Organic Chemistry from the Indian Institute of 
+  Science (IISc), Bangalore, in July 2004, where he specialized in synthetic organic chemistry and 
+  peptide synthesis under the supervision of Prof. S. Chandrasekaran. His research career has included 
+  various roles, starting as a postdoctoral fellow at Simon Fraser University, British Columbia, Canada, 
+  from 2004 to 2006, where he worked with Prof. B. M. Pinto.  In May 2007, Prof. Srivatsan began his 
+  tenure as an Assistant Professor, a position he held until January 2013, when he was promoted to
+   Associate Professor. Since October 2019, he is working as a Professor. "
   thumbnailUrl: rgbhat.jpg
   rockstar: false
 
@@ -74,9 +80,62 @@
   surname: "Britto"
   company: "Department of Chemistry IISER Pune"
   title: "Professor"
-  bio: "Prof. Sandanaraj Britto obtained PhD at the University of Massachusetts-Amherst (2002-2007). He was a Presidential Postdoctoral Fellow until 2010 at the Global Imaging Group of Novartis Institutes for BioMedical Research, Inc at Cambridge, Massachusetts, USA. He worked as Senior Scientist in RNAi Therapeutics at Novartis until 2014 before joining IISER Pune"
+  bio: "Prof. Sandanaraj Britto obtained PhD at the University of Massachusetts-Amherst (2002-2007). 
+  He was a Presidential Postdoctoral Fellow until 2010 at the Global Imaging Group of Novartis Institutes 
+  for BioMedical Research, Inc at Cambridge, Massachusetts, USA. He worked as Senior Scientist in RNAi 
+  Therapeutics at Novartis until 2014 before joining IISER Pune"
   thumbnailUrl: britto.jpg
   rockstar: false
 
+-
+  id: 1009
+  name: "Muhammed"
+  surname: "Musthafa"
+  company: "Department of Chemistry IISER Pune"
+  title: "Professor"
+  bio: "Prof. Muhammed Musthafa obtained his PhD degree from the Indian Institute of Science,
+   Bangalore (India) where he explored bi-functional mechanism and metal-support interactions in 
+   fuel cell electrocatalysis by electrochemical FTIR. Then he moved to the University of St: Andrews,
+    Scotland (United Kingdom) where he mainly investigated the stability of cathode materials in aprotic 
+    Li-air batteries by differential electrochemical mass spectrometric (DEMS) techniques. He joined the 
+    department of chemistry of IISER Pune in August 2014 as an Assistant Professor."
+  thumbnailUrl: mustafa.jpg
+  rockstar: false
 
 
+-
+  id: 2001
+  name: " Srijita"
+  surname: "Banerjee"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Srijita Banerjee completed BSc from Serampore College University of Calcutta. 
+  She joined Prof. Angshuman Nag's group at IISER Pune in 2019 as a Int.PhD student. Her 
+  broad research interests are exploring the opto-structural properties of halide perovskites. "
+  thumbnailUrl: srijita.png
+  rockstar: false
+-
+  id: 2002
+  name: " Virendra"
+  surname: "Mahida"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "graduation :- VP & RPTP science college (Sardar Patel University, ANAND, GUJARAT)
+post graduation :- Department of chemistry(Sardar Patel University, ANAND, GUJARAT)
+research interest :-  carbohydrate chemistry & glycobiology"
+  thumbnailUrl: virendra.jpg
+  rockstar: false
+
+-
+  id: 2003
+  name: " Soumya"
+  surname: "Sahoo"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Having completed both my graduation and post-graduation at Visva Bharati University, 
+ I am now engaged in research focused on NMR-based metabolomics. This specialized field utilizes Nuclear Magnetic Resonance (NMR) 
+ spectroscopy to analyze metabolites in biological samples, providing insights into metabolic processes and their implications for health and disease."
+  thumbnailUrl: soumya.jpg
+  rockstar: false
+
+ 
