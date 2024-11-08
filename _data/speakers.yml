@@ -46,7 +46,7 @@
   title: "Professor"
   bio: "Prof. Jeetender Chugh obtained his Ph.D. in Biomolecular NMR spectroscopy in 2008 from TIFR, Mumbai. He was a postdoctoral fellow at the University of Michigan before joining IISER Pune in 2013. His lab focuses on various aspects of solution NMR spectroscopy, including theoretical design and implementation of new NMR experiments to probe the biophysical characteristics and conformational dynamics of RNAs, proteins, and RNA-protein complexes. In parallel, he is also interested in looking at metabolic profiles of various body fluids (urine, blood, saliva, etc.) in normal and disease conditions and cell extracts under various stressed conditions to understand and correlate the metabolic pathways with specific phenotypes."
   thumbnailUrl: jeetinderchug.jpg
-  rockstar: false
+  rockstar: true
   
 - 
   id: 1006
@@ -56,7 +56,7 @@
   title: "Professor"
   bio: "Prof. S.G. Srivatsan obtained his M. Sc. degree in chemistry from Indian Institute of Technology, Madras in 1995 and PhD in bioorganic chemistry from Indian Institute of Technology, Kanpur in 2003. He was an Alexander von Humboldt postdoctoral fellow at University of Bonn, Germany and a postdoctoral fellow at University of California, San Diego before joining IISER Pune in November 2008."
   thumbnailUrl: sgsrivatsan.jpg
-  rockstar: false
+  rockstar: true
 
 - 
   id: 1007
@@ -72,7 +72,7 @@
   tenure as an Assistant Professor, a position he held until January 2013, when he was promoted to
    Associate Professor. Since October 2019, he is working as a Professor. "
   thumbnailUrl: rgbhat.jpg
-  rockstar: false
+  rockstar: true
 
 - 
   id: 1008
@@ -85,7 +85,7 @@
   for BioMedical Research, Inc at Cambridge, Massachusetts, USA. He worked as Senior Scientist in RNAi 
   Therapeutics at Novartis until 2014 before joining IISER Pune"
   thumbnailUrl: britto.jpg
-  rockstar: false
+  rockstar: true
 
 -
   id: 1009
