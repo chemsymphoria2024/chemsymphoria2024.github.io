@@ -102,6 +102,35 @@
   thumbnailUrl: mustafa.jpg
   rockstar: false
 
+-
+  id: 1010
+  name: "Nishant"
+  surname: "Singh"
+  company: "Institute of Advanced Materials (INAM) Universitat Jaume Spain"
+  title: "Professor"
+  bio: "Nishant completed his PhD in 2016 under the supervision of 
+  Pr. Escuder with a Marie Curie Fellowship (Extraordinary prize) working 
+  on catalytic hydrogels. He then moved to the School of Pharmacy, University of
+   Nottingham, UK with Pr. C. Alexander for his first postdoc in 2017 on EPSRC
+    funded Next Generation Biomaterials Discovery Grant. He worked on combinatorial 
+    drug delivery systems for breast cancer and antibiotic resistance, and high-through 
+    put discovery of anti-bacterial coatings. He then moved to Institut de Science et 
+    d'Ingénierie Supramoléculaires (ISIS), University of Strasbourg in 2018 with Pr. T. 
+    Hermans to work on non-equilibrium self-assemblies and reaction cycles where he also 
+    secured a Marie Curie Individual Fellowship. Nishant was awarded CIDEGENT GRANT in 2022
+     to start his own research group at INAM,UJI. He is mainly interested in supramolecular
+      and systems chemistry with focus on non-equilibrium systems."
+  thumbnailUrl: nishant.jpg
+  rockstar: false
+-
+  id: 1010
+  name: "Madan"
+  surname: "Ambhore"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: madan.jpg
+  rockstar: false
 
 -
   id: 2001
@@ -112,7 +141,7 @@
   bio: "Srijita Banerjee completed BSc from Serampore College University of Calcutta. 
   She joined Prof. Angshuman Nag's group at IISER Pune in 2019 as a Int.PhD student. Her 
   broad research interests are exploring the opto-structural properties of halide perovskites. "
-  thumbnailUrl: srijita.png
+  thumbnailUrl: srijita.jpg
   rockstar: false
 -
   id: 2002
@@ -138,4 +167,91 @@ research interest :-  carbohydrate chemistry & glycobiology"
   thumbnailUrl: soumya.jpg
   rockstar: false
 
- 
+- 
+  id: 2004
+  name: "Urmila"
+  surname: "Makhija"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Graduation: Fergusson College
+    Post Graduation: Institute of Chemical Technology, Mumbai
+  Research Interest: Understanding the structural-property relationship in low dimensional 
+  hybrid perovskites in terms of chirality, piezoelectricity and thermosalient properties."
+  thumbnailUrl: urmila.jpg
+  rockstar: false
+
+- 
+  id: 2005
+  name: "Shankhajit"
+  surname: "Mondal"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "BSc chemistry hons. from Krishnath college, Berhampore, MS in chemistry from 
+    IISER Pune, Research interest in photochemical transformations, homogenous and heterogeneous catalysis"
+  thumbnailUrl: shankajit.jpg
+  rockstar: false
+
+- 
+  id: 2006
+  name: "Taniya"
+  surname: "Dutta"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Graduation- Calcutta University
+  Post graduation- Jadavpur University
+    Research interest- Synthesis and photo-physic investigation of 2D hybrid perovskite"
+  thumbnailUrl: taniya.jpg
+  rockstar: false
+
+- 
+  id: 2007
+  name: "Gokul"
+  surname: "S Londhe"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "I have completed an M.Sc. in Chemistry from Shivaji University, Kolhapur, and a B.Sc. from Shri Shivaji Mahavidyalaya,
+   Barshi. I am currently engaged in research centered on batch and continuous flow organic transformations for the synthesis of 
+   new bioactive molecules."
+  thumbnailUrl: gokul.jpg
+  rockstar: false
+
+- 
+  id: 2008
+  name: "Sandip"
+  surname: "Toraskar"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Graduation- SGM Collage Karad, Post Graduation- YCIS Satara, Research Interest- Peptide"
+  thumbnailUrl: sandip.jpg
+  rockstar: false
+
+- 
+  id: 2009
+  name: "Ankita"
+  surname: "Chandra"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: ""
+  thumbnailUrl: ankita.jpg
+  rockstar: false
+  
+- 
+  id: 2010
+  name: "Rahul"
+  surname: "Deb"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: ""
+  thumbnailUrl: rahul.jpg
+  rockstar: false
+
+- 
+  id: 2011
+  name: "Onkar"
+  surname: "Bankar"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: ""
+  thumbnailUrl: onkar.jpg
+  rockstar: false  
+

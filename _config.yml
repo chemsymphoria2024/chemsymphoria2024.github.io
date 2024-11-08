@@ -39,7 +39,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "CHEM SYMPHORIA <typeout>"
-eventDate: "December 2-4, 2024"
+eventDate: "December 2-3, 2024"
 # typeoutTextValues: '"Chemistry", "Science", "Research", "Presentations"'
 typeoutTextValues: '"IISER PUNE"'
 # typeoutFallback: "Season"
@@ -57,9 +57,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "attendees", detail: "From diverse scientific disciplines"}
+ - {count: "250", specialCharacter: "+", info: "attendees", detail: "From diverse scientific disciplines"}
  - {count: "20", specialCharacter: "+", info: "hours", detail: "Scientific presentation and discussion sessions"}
- - {count: "35", specialCharacter: "+", info: "speakers", detail: "Representing various disciplines of chemistry"}
+ - {count: "30", specialCharacter: "+", info: "speakers", detail: "Representing various disciplines of chemistry"}
 #  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 
@@ -76,8 +76,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-# venueTitle: "C.V. Raman Auditorium"
-venueTitle: "To be updated soon..."
+venueTitle: "C.V. Raman Auditorium"
+# venueTitle: "To be updated soon..."
 
 venueFeatures: ["ISER Pune, Dr. Homi Bhabha Road, Pune 411008, India"]
 
