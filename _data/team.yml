@@ -130,6 +130,20 @@
   team: true
 -
   id: 26
+  name: "Vikash"
+  surname: "Kushwaha"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: vikash.png
+  team: true
+-
+  id: 27
+  name: "Bikarna"
+  surname: "Roy"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: bikarna.jpg
+  team: true
+-
+  id: 28
   name: "Sagarika"
   surname: "Roy"
   # title: "Sponsors and Speakers Manager"
@@ -137,17 +151,7 @@
   team: true
 -
 
-
-  id: 27
-  name: "Vikash"
-  surname: "Kushwaha"
-  # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.png
-  team: true
--
-
-
-  id: 28
+  id: 29
   name: "Kshitish"
   surname: "Chandra"
   # title: "Sponsors and Speakers Manager"
@@ -155,19 +159,9 @@
   team: true
 -
 
-  id: 29
+  id: 30
   name: "Prachi"
   surname: "Prakash"
-  # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.png
-  team: true
--
-
-
-
-  id: 30
-  name: "Bikarna"
-  surname: "Roy"
   # title: "Sponsors and Speakers Manager"
   thumbnailUrl: dummy.png
   team: true

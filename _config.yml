@@ -56,10 +56,10 @@ aboutBlock:
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "250", specialCharacter: "+", info: "attendees", detail: "From diverse scientific disciplines"}
- - {count: "20", specialCharacter: "+", info: "hours", detail: "Scientific presentation and discussion sessions"}
- - {count: "30", specialCharacter: "+", info: "speakers", detail: "Representing various disciplines of chemistry"}
+# statisticBlock:
+#  - {count: "200", specialCharacter: "+", info: "attendees", detail: "From diverse scientific disciplines"}
+#  - {count: "", specialCharacter: "+", info: "hours", detail: "Scientific presentation and discussion sessions"}
+#  - {count: "25", specialCharacter: "+", info: "speakers", detail: "Representing various disciplines of chemistry"}
 #  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 
