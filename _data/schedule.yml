@@ -8,7 +8,7 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [001]
+    	sessionIds: [1001,1002]
     }
     
 # day 1 Session 1
@@ -20,17 +20,17 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
+    	sessionIds: [1002]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [003]
+        sessionIds: [1003]
     }
     - {
     	startTime: "12:00",
     	endTime: "11:45",
-    	sessionIds: [004]
+    	sessionIds: [1004]
     }
 # day 1 tea break I 
 -
@@ -54,17 +54,17 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
+    	sessionIds: [1002]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [003]
+    	sessionIds: [1003]
     }
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [004]
+        sessionIds: [1004]
     }
 # day 1 Lunch time
 -
@@ -88,17 +88,17 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
+    	sessionIds: [1002]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [003]
+    	sessionIds: [1003]
     }
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [004]
+        sessionIds: [1004]
     }
 # day 1 tea break II
 -
@@ -122,17 +122,17 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
+    	sessionIds: [1002]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [003]
+    	sessionIds: [1003]
     }
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [004]
+        sessionIds: [1004]
     }
 # end  of the  day 1
 # begining of day 2
@@ -140,24 +140,24 @@
 # day 2 Session 1
 -
   date: "2024-12-03"
-  dateReadable: "Day 2: December 2, 2024"
+  dateReadable: "Day 2: December 3, 2024"
   tracks: 
     - {title: "Session I", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
+    	sessionIds: [1002]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [003]
+        sessionIds: [1003]
     }
     - {
     	startTime: "12:00",
     	endTime: "11:45",
-    	sessionIds: [004]
+    	sessionIds: [1004]
     }
 # day 2 tea break I 
 -
@@ -181,17 +181,17 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
+    	sessionIds: [1002]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [003]
+    	sessionIds: [1003]
     }
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [004]
+        sessionIds: [1004]
     }
 # day 2 Lunch time
 -
@@ -215,17 +215,17 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
+    	sessionIds: [1002]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [003]
+    	sessionIds: [1003]
     }
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [004]
+        sessionIds: [1004]
     }
 # day 2 tea break II
 -
@@ -249,16 +249,16 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
+    	sessionIds: [1002]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [003]
+    	sessionIds: [1003]
     }
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [004]
+        sessionIds: [1004]
     }
 # end  of the  day 2
