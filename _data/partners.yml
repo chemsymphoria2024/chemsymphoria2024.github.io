@@ -2,8 +2,14 @@
   group: "Gold Sponsor"
   elements: 
     - {name: "sponsor", description: "sponsor this provides this service" , imageUrl: "sponsor-1.svg"}
-    - {name: "sponsor", description: "sponsor this provides this service",  imageUrl: "sponsor-1.svg"}
-    - {name: "sponsor", description: "sponsor this provides this service",  imageUrl: "sponsor-1.svg"}
+- 
+  group: "Silver Sponsor"
+  elements: 
+    - {name: "sponsor", description: "sponsor this provides this service" , imageUrl: "sponsor-1.svg"}
+- 
+  group: "Bronze Sponsor"
+  elements: 
+    - {name: "sponsor", description: "sponsor this provides this service" , imageUrl: "sponsor-1.svg"}
 - 
 
 # - 

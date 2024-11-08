@@ -26,7 +26,7 @@
   title: "Professor"
   bio: "Prof. Shabana Khan obtained her PhD degree from the Indian Institute of Technology, Delhi in 2008. Subsequently, she received the fellowship of Deutscher Akademischer Austausch Dienst (DAAD) and joined the research group of Prof. Herbert W. Roesky as a postdoctoral fellow at University of Goettingen, followed by a second post doc with Prof. Manuel Alcarazo at the Max Planck Institute for Coal Research. Currently she is working as an associate professor in the Department of Chemistry at IISER Pune."
   thumbnailUrl: shabanakhan.jpg
-  rockstar: true
+  rockstar: false
 
 - 
   id: 1004
@@ -100,7 +100,7 @@
     Li-air batteries by differential electrochemical mass spectrometric (DEMS) techniques. He joined the 
     department of chemistry of IISER Pune in August 2014 as an Assistant Professor."
   thumbnailUrl: mustafa.jpg
-  rockstar: false
+  rockstar: true
 
 -
   id: 1010
@@ -123,7 +123,7 @@
   thumbnailUrl: nishant.jpg
   rockstar: false
 -
-  id: 1010
+  id: 1011
   name: "Madan"
   surname: "Ambhore"
   company: ""
@@ -256,7 +256,7 @@ research interest :-  carbohydrate chemistry & glycobiology"
   rockstar: false  
 
 - 
-  id: 2011
+  id: 2012
   name: "Swagata "
   surname: "Dutta"
   company: "Department of Chemistry IISER Pune"
