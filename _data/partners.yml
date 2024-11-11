@@ -1,15 +1,15 @@
 - 
-  group: "Gold Sponsor"
+  # group: "Gold Sponsor"
   elements: 
-    - {name: "sponsor", description: "sponsor this provides this service" , imageUrl: "sponsor-1.svg"}
+    - {name: "sponsor", description: " " , imageUrl: "srl.png"}
 - 
-  group: "Silver Sponsor"
+  # group: "Silver Sponsor"
   elements: 
-    - {name: "sponsor", description: "sponsor this provides this service" , imageUrl: "sponsor-1.svg"}
+    - {name: "sponsor", description: " " , imageUrl: "tci.jpg"}
 - 
-  group: "Bronze Sponsor"
+  # group: "Bronze Sponsor"
   elements: 
-    - {name: "sponsor", description: "sponsor this provides this service" , imageUrl: "sponsor-1.svg"}
+    - {name: "sponsor", description: " " , imageUrl: "isotopic.png"}
 - 
 
 # - 

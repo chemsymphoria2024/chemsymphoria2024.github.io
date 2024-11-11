@@ -23,8 +23,8 @@ url: "https://chemsymphoria2024.github.io"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/sponsorship/", text: "Sponsorship"}
 #  - {permalink: "/gallery/", text: Gallery}
@@ -79,7 +79,7 @@ venueSmallImage3: "venue_3.jpg"
 venueTitle: "C.V. Raman Auditorium"
 # venueTitle: "To be updated soon..."
 
-venueFeatures: ["ISER Pune, Dr. Homi Bhabha Road, Pune 411008, India"]
+venueFeatures: ["IISER Pune, Dr. Homi Bhabha Road, Pune 411008, India"]
 
 
 
