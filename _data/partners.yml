@@ -2,15 +2,22 @@
   # group: "Gold Sponsor"
   elements: 
     - {name: "sponsor", description: " " , imageUrl: "srl.png"}
-- 
-  # group: "Silver Sponsor"
-  elements: 
     - {name: "sponsor", description: " " , imageUrl: "tci.jpg"}
-- 
-  # group: "Bronze Sponsor"
-  elements: 
     - {name: "sponsor", description: " " , imageUrl: "isotopic.png"}
-- 
+    - {name: "sponsor", description: " " , imageUrl: "precision.jpg"}
+# - 
+#   # group: "Silver Sponsor"
+#   elements: 
+#     - {name: "sponsor", description: " " , imageUrl: "tci.jpg"}
+# - 
+#   # group: "Bronze Sponsor"
+#   elements: 
+#     - {name: "sponsor", description: " " , imageUrl: "isotopic.png"}
+# - 
+#   # group: "Bronze Sponsor"
+#   elements: 
+#     - {name: "sponsor", description: " " , imageUrl: "precision.jpg"}
+# - 
 
 # - 
 #   group: " "
