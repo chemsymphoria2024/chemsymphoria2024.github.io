@@ -22,7 +22,16 @@
   cursor: pointer;
   counter-increment: item-counter;  
 }
+@media only screen and (min-width:1800px){
+  .gallery {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
+  grid-auto-rows: 600px;
+  grid-auto-flow: row dense;
+}
 
+}
 @media only screen and (max-width:400px){
   .gallery {
   display: grid;
