@@ -82,8 +82,8 @@
   language: en 
 -
   id: 1009
-  title: ""
-  description: "Electricity from Acid-Base Chemistry."
+  title: "Electricity from Acid-Base Chemistry."
+  description: ""
   speakers: [1009] # Musthafa
   language: en
 -
