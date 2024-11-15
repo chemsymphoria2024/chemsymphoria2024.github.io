@@ -1,8 +1,15 @@
 - 
   # group: "Gold Sponsor"
   elements: 
+    - {name: "sponsor", description: " " , imageUrl: "anr.png"}
+    
+-
+  elements:
     - {name: "sponsor", description: " " , imageUrl: "srl.png"}
     - {name: "sponsor", description: " " , imageUrl: "tci.jpg"}
+
+-
+  elements:
     - {name: "sponsor", description: " " , imageUrl: "isotopic.png"}
     - {name: "sponsor", description: " " , imageUrl: "precision.jpg"}
 # - 
