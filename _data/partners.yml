@@ -12,6 +12,7 @@
   elements:
     - {name: "sponsor", description: " " , imageUrl: "isotopic.png"}
     - {name: "sponsor", description: " " , imageUrl: "precision.jpg"}
+    - {name: "sponsor", description: " " , imageUrl: "scifibio.jpg"}
 # - 
 #   # group: "Silver Sponsor"
 #   elements: 
