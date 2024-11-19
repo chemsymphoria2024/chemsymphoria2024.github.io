@@ -1,14 +1,49 @@
 -
+  id: 11
+  title: "Tea Break and Photo Session"
+  # place: "Hall"
+  service: true
+  # description: "The best time to talk with speakers and attendees"
+-
   id: 111
   title: "Tea Break"
   # place: "Hall"
-  # service: true
-  description: "The best time to talk with speakers and attendees"
-
+  service: true
+  # description: "The best time to talk with speakers and attendees"
 -
   id: 1111
   title: "Lunch Break"
   # place: "Dining room"
+  service: true
+-
+  id: 6001
+  title: "Games and Quiz"
+  # place: "Dining room"
+  service: true
+-
+  id: 6002
+  title: "Showcase - ROAD's END: the making of Chemsymphoria 2024"
+  # place: "Dining room"
+  service: true
+-
+  id: 6003
+  title: "Prize distribution and closing remarks"
+  # place: "Dining room"
+  service: true
+-
+  id: 6004
+  title: "Welcome Address"
+  # place: "Dining room"
+  service: true
+-
+  id: 6005
+  title: "Award Distribution"
+  # place: "Dining room"
+  service: true
+ 
+- 
+  id: 6006
+  title: "Showcase- “LEGACY” A documentary on Department of Chemistry, IISER Pune"
   service: true
 -
   id: 0000
@@ -24,7 +59,7 @@
   language: en
 -
   id: 1002
-  title: "  "
+  title: "High Entropy Half Heuslers for enhanced thermoelectric figure of merit: The case of ZrHfNiCoSnSb"
   description: ""
   speakers: [1002]  # Prasenjit Ghosh
   language: en
@@ -36,13 +71,13 @@
   language: en
 -
   id: 1004
-  title: "  "
-  description: ""
+  title: "Photoport: Harnessing Light for Efficient Ion Transport Across Lipid Membranes"
+  description: "Transporting ions through lipid-based membranes is a key biophysical activity existing in living organisms, which is highly significant for cellular communication, balance and energy expenditure. Recently developed light-activated systems have created new horizons for for controlling ion movement with spatial and temporal precision. This presentation explores the development of Photoport, a light-responsive platform designed to efficiently facilitate ion transport across lipid bilayers. By utilizing photoisomerization and photocleavage based processes, Photoport enables precise control over artificial ion transporters, mimicking natural processes while offering tunable external triggers. The molecular designs of different phototransporters shall be discussed, and it will include such aspects such as photoreversible ion gating and selective ion permeability. The effect of the light-mediated structural changes on transport properties will be treated in great detail. Applications of Photoport in membrane systems, such as cancer targeting, will also be discussed."
   speakers: [1004]  # Pinaki Talukdar
   language: en
 -
   id: 1005
-  title: "Detection of an off-pathway intermediate to fibril formation in an RNA-recognition motif."
+  title: "Detection of an off-pathway intermediate to fibril formation in an RNA-recognition motif"
   description: ""
   speakers: [1005]  # Jeetinder Chugh
   language: en
@@ -68,37 +103,47 @@
     probes for advanced applications."
   speakers: [1006] # S G srivatsan
   language: en
+
 -
   id: 1007
-  title: " "
+  title: "Ligands as Gatekeepers in Quantum Dot Photocatalysis."
   description: "  "
-  speakers: [1007] # RGB
+  speakers: [1007] # Pramod Pillai
   language: en
 -
   id: 1008
-  title: "Development of Converging Chemical Biology Technologies : Towards Industry-Academia Collaboration and Deep Science Startups."
-  description: ""
-  speakers: [1008] # britto
-  language: en 
--
-  id: 1009
-  title: "Electricity from Acid-Base Chemistry."
-  description: ""
-  speakers: [1009] # Musthafa
+  title: "Versatile Reactivity of Diazo Carbonyl Compounds Towards Metal Catalysts and Visible Light"
+  description: "  "
+  speakers: [1008] # RGB
   language: en
 -
-  id: 1010
-  title: "Reactive Phase Separated Droplets as Self-assembly Templates"
+  id: 1009
+  title: "Development of Converging Chemical Biology Technologies : Towards Industry-Academia Collaboration and Deep Science Startups."
   description: ""
-  speakers: [1010] # Nishant
+  speakers: [1009] # britto
+  language: en 
+-
+  id: 1010
+  title: "Electricity from Acid-Base Chemistry."
+  description: ""
+  speakers: [1010] # Musthafa
   language: en
 -
   id: 1011
-  title: ""
+  title: "Reactive Phase Separated Droplets as Self-assembly Templates"
   description: ""
-  speakers: [1011] # Madan
+  speakers: [1011] # Nishant
   language: en
-
+-
+  id: 1012
+  title: "Synthesis Characterization and Redox Chemistry of Open Shell Twisted Alkene"
+  description: ""
+  speakers: [1012] # Madan
+  language: en
+-
+  id: 1013
+  title: "Sponsor Talk"
+  service: true
 # Student speakers
 -
   id: 2001
@@ -202,7 +247,7 @@ progression and provide insights for different therapeutic strategies."
   language: en
 -
   id: 2006
-  title: "Effect of Gauche and Anti Conformers on Chirality of 2D Layered Hybrid Perovskites"
+  title: "Conformer-Mediated Helical Chirality in 2D Hybrid Perovskites"
   description: "Two-dimensional (2D) chiral organic-inorganic hybrid lead halide perovskites 
   combines structural asymmetry, semiconducting charge transport and strong spin-orbit coupling paving 
   the way for unique chiral optoelectronic and spin-based properties. Typically, chiral organic sublattice
@@ -292,24 +337,24 @@ progression and provide insights for different therapeutic strategies."
       rendering the oxidation of the Germanium center from +2 to +4 oxidation state. However, when we placed 
       a Germanium (II) cation6 adjacent to the Germylene, the electron push from the phosphine and simultaneous 
       electron pull from the Ge (II) cation stabilized the Germylene via push-pull interaction.
-In other work, we investigated the coordination of Gold(I) chloride with a PNNP pincer ligand provided 
-promising results with the synthesis of a monometallic and a bimetallic complex. The monometallic complex 
-provided an open coordination site which was further exploited for the coordination of low-valent germanium.
+      In other work, we investigated the coordination of Gold(I) chloride with a PNNP pincer ligand provided 
+    promising results with the synthesis of a monometallic and a bimetallic complex. The monometallic complex 
+    provided an open coordination site which was further exploited for the coordination of low-valent germanium.
  However, that led to the formation of an unprecedented Germanium (II)  Gold (I) bimetallic complex."
-  speakers: [2010] # Rahul
+  speakers: [2010] # Rahul deb
   language: en
+
 -
   id: 2011
-  title: "Reactivity of acceptor-acceptor DIPOLs under visible light conditions : An access to pesticide analogues."
-  description: "Pyrazolone framework has been greatly explored for various applications owing to their presence
-   in many bioactive compounds. The novel reactivity of less selective and more reactive acceptor-acceptor
-    kind of diazo pyrazolone (DIPOL) has been explored under visible light for the first time. We have 
-    successfully demonstrated the reaction of DIPOL and different allyl thioethers under blue light to 
-    construct a wide variety of products including pesticidal analogue exclusively in excellent chemo-selectivities
-     in good to excellent yields. Moreover, the possible side products emanating from ketene were not observed. 
-     This protocol works smoothly in environmentally benign solvent under inert free condition. The practicality 
-     of the protocol has been extended to photo-flow reaction and also the reaction works smoothly under the
-      direct exposure of sunlight."
+  title: "The Reactivity of Acceptor-Acceptor Diazo Pyrazolones with Allyl Thioethers under Visible Light: Access to Homoallyl Sulfides, Spiropyrazolones - Pesticide Analogues and Photoflow Synthesis"
+  description: "The novel reactivity of a less selective and more reactive acceptor-acceptor kind of diazo
+   pyrazolone (DIPOL) has been explored under visible light for the first time. We have successfully 
+   demonstrated the reaction of DIPOL and different allyl thioethers under blue light to construct a wide
+    variety of products including a pesticidal analogue exclusively in excellent chemoselectivity in good 
+    to excellent yields. Moreover, possible side products emanating from ketene were not observed. This 
+    protocol works smoothly in an environmentally benign solvent under inert free conditions. The
+    practicality of the protocol has been extended to a photoflow reaction, and also, the reaction works 
+    smoothly under the direct exposure of sunlight."
   speakers: [2011] # Onkar
   language: en
 -
@@ -325,4 +370,159 @@ provided an open coordination site which was further exploited for the coordinat
       endocytosis internalizes the probe attached at the 3’-end of the aptamer. This modified aptamer 
       can be used as a tool for cellular imaging as well as a targeted drug delivery platform. "
   speakers: [2012] # Swagata
+  language: en
+
+-
+  id: 2013
+  title: "Peptide binder design for Gankyrin inhibition"
+  description: "Gankyrin is an oncogenic protein overexpressed in cancers, notably 
+  hepatocellular carcinoma, and plays a key role in cell cycle dysregulation and
+   tumorigenesis. It exerts its effects by binding to various protein partners, 
+   including retinoblastoma protein (pRb) and HDM2, enhancing the hyperphosphorylation 
+   and degradation of pRb and promoting p53 ubiquitination. These interactions activate
+    pathways that favor cell proliferation and suppress apoptosis, making gankyrin a significant
+     target for cancer therapeutics. However, gankyrin's flat, concave surface presents
+      challenges for small-molecule targeting, suggesting the potential of peptide 
+      binders as effective inhibitors.
+     In this work, we utilized advanced diffusion models, specifically RFdiffusion, to
+    design peptide backbones capable of binding to gankyrin’s interaction interfaces.
+  RFdiffusion incrementally denoises input data to generate structures that resemble
+   target distributions. We paired RFdiffusion with ProteinMPNN, a graph neural
+    network-based tool, to obtain optimized amino acid sequences for generated 
+    peptide backbones. Predicted structures for these peptides were refined using 
+    AlphaFold2, ensuring structural consistency and biological feasibility. 
+    To evaluate binding affinity, we performed free energy calculations through 
+    metadynamics, quantifying the binding free energies of top-ranking peptides."
+  speakers: [2013] # Rahul hooda
+  language: en
+
+-
+  id: 2014
+  title: "Unveiling C-C Coupling in Redox-Active Bis(α-Iminopyridine) Tin Complexes"
+  description: "Our group have been interested in low-valent Sn(II) chemistry stabilized 
+  within bis(imine) based redox-active ligand systems. We have obtained a bisstannylene 
+  from the reaction between the bis(-iminopyridine) ligand and the Sn[(NSiMe3)2]2 through 
+  ene-amide transformation.Such ene-amide stabilized stannylene exhibit dipolar behavior 
+  leading to the formation of Sn(II) di-cation. The ene-amide derivative has been utilized for
+   the stabilization of a highly nucleophilic stannylene. We have now observed C-C coupling 
+   reactions in the ene-amide stabilized polystannylene systems via radical pathway.
+   The C-C coupling occurs at the ligand backbone of the polystannylenes leading to the 
+   formation of intensely colored compounds. The compounds have been fully characterized using
+    single crystal X-ray diffraction techniques in the solid-state and multi-nuclear NMR
+     spectroscopy in the solution-state. The origin of the absorbance for such polystannylenes 
+     have been rationalized from time-dependent density functional theory of their optimized
+      geometries. We have isolated intermediates which helps to rationalize the reaction
+       mechanism for the coupling reaction. All these studies will be discussed in the talk."
+  speakers: [2014] # Niranjan Patel
+  language: en
+
+-
+  id: 2015
+  title: "Effect of pathogenic mutations on dynamics of the mouse prion protein"
+  description: "Prion proteins (PrPs) are implicated in a range of neurodegenerative diseases, 
+  and understanding their dynamic behavior is crucial for unraveling the mechanisms underlying 
+  prion pathology. In this study, we use Photoinduced Electron Transfer Fluorescence
+   Correlation Spectroscopy (PET-FCS) to investigate the dynamics of prion proteins, 
+   focusing on how pathogenic mutations influence the protein's native state. PET-FCS 
+   provides high-resolution insights into protein conformational transitions by monitoring
+    fluorescence fluctuations and utilizing photoinduced electron transfer to track molecular
+     interactions. By comparing the dynamics of wild-type and mutant prion proteins, 
+     we examine how specific pathogenic mutations alter the protein's conformational 
+     stability and native state dynamics. Our results show that these mutations disrupt 
+     the native conformational equilibrium, affecting protein flexibility and potentially 
+     facilitating misfolding and aggregation. These findings offer new perspectives on how 
+     genetic variations in prion proteins may contribute to disease progression and provide 
+     a deeper understanding of the relationship between protein dynamics and prion-related 
+     neurodegenerative disorders."
+  speakers: [2015] # Preeti Kumari
+  language: en
+
+-
+  id: 2016
+  title: "Plasmonic Antenna-Reactor Photocatalysts Based on Anisotropic Gold-Rhodium Constructs for Biological Cofactor Regeneration"
+  description: "Plasmonic nanomaterials of Au, Ag, Cu, and Al have emerged as an important 
+  class of photocatalysts because of their exceptionally high light absorption capabilities,
+   which enable them to carry out challenging chemical transformations. However, their low 
+   chemical affinity towards most of the reactant molecules presents fundamental limitations 
+   such as low yield and selectivity in sole plasmonic photocatalysis.3 In recent years, 
+   researchers have developed strategies to enhance the charge separation and extraction 
+   processes by modulating the catalyst-reactant interaction and designing plasmonic
+    antenna-reactor systems. In an antenna-reactor system, a plasmonic component
+     concentrates the light energy, and an attached non-plasmonic component extracts this
+      energy to generate hot charge carriers to carry out chemical transformations.1 In this 
+      direction, our group has prepared antenna-reactor systems comprising gold-rhodium 
+      constructs (AuNP-Rh NFs and AuNR-Rh SSs) and precisely modified the surface chemistry 
+      to study the effect of shape anisotropy in carrying out the photocatalytic regeneration 
+      of nicotinamide cofactor (NAD(P)H). NAD(P)H is an essential cofactor used by oxidoreductase
+       enzymes in various biocatalytic reactions, and its regeneration using light is an 
+       important area in biocatalysis. Functionalized AuNR-Rh SSs showed better photocatalytic
+        activity compared to AuNP-Rh NFs as well as sole plasmonic photocatalysts towards the
+         regeneration of NADH, which was attributed to the (i) enhanced catalyst-mediator interaction, 
+         (ii) antenna-reactor effect, and (iii) shape anisotropy. The photocatalytic performance 
+         was retained for at least five cycles, establishing Au-Rh constructs as a promising 
+         antenna-reactor system for future photocatalytic NAD(P)H regeneration. "
+  speakers: [2016] # Ankit Dhankar
+  language: en
+
+  
+-
+  id: 2017
+  title: "A Vitamin C Fuel Cell through Substrate-Ligand Interactions"
+  description: "In this work, we have investigated the crucial role of ligand in non-precious organometallic
+   complexes in influencing the de-electronation kinetics of fuel molecules through 
+   a unique substrate-ligand synergistic interaction. This unique chemistry imparts 
+   electron deficiency at the catalytic metal center while simultaneously populating 
+   the ligand with an extensive proton charge assembly. This distinct substrate-ligand 
+   interaction enhances the DLFC (Direct liquid fuel cell) performance by coulombically 
+   dragging the substrate with a distinct amplification in its de-electronation kinetics. 
+   By integrating this approach with an outer-sphere half-cell reaction, a precious metal-free
+    vitamin C fuel cell is developed, which is capable of generating an open circuit voltage of 950 mV,
+     a peak power density of  97 mW/cm2 at a peak current density of  215 mA/cm2 with the performance
+      metrics nearly 1.7 times higher than a precious metal based DLFC. This work contributes to the potential 
+      of substrate-ligand synergy in designing efficient molecular catalysts for energy conversion applications."
+  speakers: [2017] # Muskan
+  language: en
+
+  
+-
+  id: 2018
+  title: "Nonfluorinated Hydrophobic Porous Composite for Efficient Recovery of Oil from Oil-Water Emulsion and for Oil Spills Clean-up from Seawater"
+  description: "Leakage of oils in water bodies is a common phenomenon due to enhanced industrialization. Herein,
+   we have fabricated a composite material through the in situ coating of a melamine foam with a nonfluorinated
+    superhydrophobic chemically robust metal–organic polyhedron at room temperature. IPMOP-PA owing to 
+    its excellent solution processability is coated homogeneously on melamine foam showing good consistency
+     and sustainability in its performance. The composite was capable of producing multiway separation of oil
+      from various aquatic challenges. The adsorbent had the potential to separate a very thin layer of oil,
+       as well as very tiny droplets of oils from marine water. Moreover, IPMOP-PA@Foam was proficient in 
+       separating oils from complicated aqueous environments like oil–water emulsions. In addition to being 
+       extremely important from an industrial standpoint, this work investigates a novel approach to the basic 
+       design of a composite material for real-time oil–water separation applications in challenging aquatic settings."
+  speakers: [2018] # Dipanjan
+  language: en
+
+-
+  id: 2019
+  title: "CO2-Selective Adsorption in a Zinc-Based Ultramicroporous Framework"
+  description: "Ultramicroporous metal-organic frameworks (MOFs) are uniquely suited for CO2 capture due to
+   their ability to tightly pack active functional groups within their pores, enhancing selective guest–framework 
+   interactions. MOFs with pore surfaces lined with both methyl and amine groups are especially promising 
+   for efficient CO₂ sorption under humid conditions. In this study, a zinc-triazolato-acetate layered-pillared
+    MOF demonstrates the potential of such functionalized ultramicropores, showcasing selective CO₂ capture
+     capabilities. These findings emphasize the role of precisely engineered pore environments in developing 
+     next-generation materials for effective and selective CO₂ adsorption in challenging conditions."
+  speakers: [2019] # Piyush
+  language: en
+
+-
+  id: 2020
+  title: "Ligand Isomerization Driven Electrocatalytic Ammonia Synthesis"
+  description: "This study investigates a novel electro-synthetic method for ammonia production directly from agricultural digestate, leveraging ligand isomerization to enhance catalytic efficiency. Conventional ammonia synthesis, typically achieved via the Haber-Bosch process, is energy-intensive and relies on fossil fuels, resulting in high carbon emissions along with high energy consumption. By contrast, this process operates under ambient conditions with a custom catalyst that undergoes ligand isomerization, achieving approximately 90% conversion efficiency and a yield of ~0.64 mg of NH₃ per hour per cm². Agricultural digestate serves as a nitrogen-rich, renewable feedstock, aligning this method with sustainable waste utilization practices and circular economy principles. The selective activation of catalytic sites ensures consistent yield while minimizing energy input, offering economic and environmental benefits suitable for decentralized applications in agricultural sectors. However, challenges remain regarding catalyst stability and scalability due to variability in digestate composition. Future work will focus on enhancing catalyst durability, optimizing operational parameters, and adapting to diverse waste inputs to ensure viable large-scale implementation. This approach offers an efficient, low-emission pathway for ammonia production, potentially transforming waste management in agriculture. In summary, this ammonia electrosynthesis method offers a promising alternative to traditional production, transforming agricultural waste into valuable resources while contributing to cleaner, circular economy models and sustainable agriculture. This innovation has the potential to revolutionize the ammonia industry, offering economic and environmental benefits on a global scale."
+  speakers: [2020] # Rahul Mehende
+  language: en
+
+-
+  id: 2021
+  title: "DNA Polymerase-Mediated Incorporation of Clickable Nucleotide Analogs for Post-Replication Functionalization of DNA"
+  description: "DNA polymerase-catalysed incorporation of modified nucleotides is employed in many biotechnological applications, such as next-generation sequencing, nucleic acid-based diagnostics, SELEX etc. Researchers have developed various modified nucleotides with reactive handles that are well accepted by DNA polymerases for deploying functional tags through post-synthetic DNA functionalization using biorthogonal chemistry. In this context, the widespread applications of click chemistry based post-synthetic DNA modification have been extensively employed for purposes such as visualization, imaging, and tagging etc. Azide modified nucleotides are important class of compounds utilized extensively for modifying DNA using copper catalysed and strain promoted click chemistry (CuAAC & SPAAC) for aforementioned application. In this context, we report a class of azide modified nucleotide analogs (dN*TPs) having different chain length modified at the C5 position of thymidine have been well accepted by family A (KlenTaq) and family B (Kod) DNA polymerases in PEX. Using these modifications we have also developed site specific DNA labeling technique for post synthetic click chemistry. Moreover, crystal structure of azide modified nucleotide bound to KlenTaq DNA polymerase and a primer•template complex provides insights into the incorporation of modified nucleotide analogs within the enzymatic cavity and reveals the interactions between the modified nucleotide and the amino acid residues."
+  speakers: [2021] # Arindam Pal
   language: en

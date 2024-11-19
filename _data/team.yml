@@ -15,6 +15,13 @@
   team: true
 - 
 
+  id: 20
+  name: "Riteeka"
+  surname: "Tanwar"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: riteeka.jpg
+  team: true
+-
   id: 12
   name: "Uddipan "
   surname: "Bhattacharya"
@@ -61,7 +68,7 @@
   name: "Ashish"
   surname: "Kumar"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: ashish.jpg
+  thumbnailUrl: ashish2.jpg
   team: true
 
 -
@@ -70,7 +77,7 @@
   name: "Sauvik"
   surname: "Saha"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: sauvik.png
+  thumbnailUrl: sauvik.jpg
   team: true
 -
 
@@ -80,21 +87,14 @@
   # title: "Sponsors and Speakers Manager"
   thumbnailUrl: shifali.jpg
   team: true
--
 
-  id: 20
-  name: "Riteeka"
-  surname: "Tanwar"
-  # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: riteeka.jpg
-  team: true
 -
 
   id: 21
   name: "Brij"
   surname: "Shah"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: brij.png
+  thumbnailUrl: brij.jpg
   team: true
 -
 
@@ -137,17 +137,33 @@
   team: true
 -
   id: 27
-  name: "Bikarna"
+  name: "Bikirna"
   surname: "Roy"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: bikarna.jpg
+  thumbnailUrl: bikirna.jpg
   team: true
+-
+  id: 28
+  name: "Zainab"
+  surname: "Amin"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: zainab.jpg
+  team: true
+
+-
+  id: 31
+  name: "Sourav"
+  surname: "Mandal"
+  # title: "Sponsors and Speakers Manager"
+  thumbnailUrl: sourav.jpg
+  team: true
+
 -
   id: 28
   name: "Sagarika"
   surname: "Roy"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.png
+  thumbnailUrl: dummy.jpg
   team: true
 -
 
@@ -155,7 +171,7 @@
   name: "Kshitish"
   surname: "Chandra"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.png
+  thumbnailUrl: dummy.jpg
   team: true
 -
 
@@ -163,16 +179,9 @@
   name: "Prachi"
   surname: "Prakash"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.png
+  thumbnailUrl: dummy.jpg
   team: true
--
 
-  id: 31
-  name: "Sourav"
-  surname: "Mandal"
-  # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.png
-  team: true
 
 -
 
@@ -180,14 +189,6 @@
   name: "Pooja"
   surname: "Thakral"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.png
+  thumbnailUrl: dummy.jpg
   team: true
--
-  id: 33
-  name: "Zainab"
-  surname: "Amin"
-  # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.png
-  team: true
-
 -

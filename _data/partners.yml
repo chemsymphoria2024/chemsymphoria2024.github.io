@@ -1,3 +1,7 @@
+
+- 
+  elements: 
+    - {name: "IISER PUne", description: " " , imageUrl: "iiserpune.jpg"}
 - 
   # group: "Gold Sponsor"
   elements: 

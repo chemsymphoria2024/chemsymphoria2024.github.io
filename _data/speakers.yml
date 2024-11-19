@@ -60,6 +60,15 @@
 
 - 
   id: 1007
+  name: "Pramod "
+  surname: "Pillai"
+  company: "Department of Chemistry IISER Pune"
+  title: "Professor"
+  bio: "Prof. Pramod Pillai obtained his PhD in Chemistry in 2008 under the supervision of Prof. K. George Thomas at National Institute for Interdisciplinary Science and Technology (NIIST) Trivandrum, India. Prior to joining IISER Pune in June 2014, Dr. Pillai was a postdoctoral fellow in the group of Prof. Bartosz A. Grzybowski at Northwestern University, Evanston, USA (2011-2014), and an Alexander von Humboldt postdoctoral Fellow at Technische Universität in Dortmund, Germany with Prof. Christof M. Niemeyer (2008-2010). Currently Dr. Pillai’s research at IISER Pune is focused on controlling the interplay of forces to improve and impart newer properties at the nanoscale. Some of the properties of interest includes light harvesting, catalysis and self-assembly in hybrid nanomaterials."
+  thumbnailUrl: pramod.jpg
+  rockstar: true
+- 
+  id: 1008
   name: "Ramakrishna G."
   surname: "Bhat"
   company: "Department of Chemistry IISER Pune"
@@ -75,7 +84,7 @@
   rockstar: true
 
 - 
-  id: 1008
+  id: 1009
   name: "Sandanaraj"
   surname: "Britto"
   company: "Department of Chemistry IISER Pune"
@@ -88,7 +97,7 @@
   rockstar: true
 
 -
-  id: 1009
+  id: 1010
   name: "Muhammed"
   surname: "Musthafa"
   company: "Department of Chemistry IISER Pune"
@@ -103,7 +112,7 @@
   rockstar: true
 
 -
-  id: 1010
+  id: 1011
   name: "Nishant"
   surname: "Singh"
   company: "Institute of Advanced Materials (INAM) Universitat Jaume Spain"
@@ -123,14 +132,15 @@
   thumbnailUrl: nishant.jpg
   rockstar: false
 -
-  id: 1011
+  id: 1012
   name: "Madan"
   surname: "Ambhore"
-  company: ""
-  title: ""
-  bio: ""
+  company: " "
+  title: " "
+  bio: " "
   thumbnailUrl: madan.jpg
   rockstar: false
+
 
 -
   id: 2001
@@ -261,9 +271,115 @@ research interest :-  carbohydrate chemistry & glycobiology"
   surname: "Dutta"
   company: "Department of Chemistry IISER Pune"
   title: "PhD Student"
-  bio: "Graduation - Jadavpur University (2014-2017)
-Post graduation - Jadavpur University (2017-2019)
-Research Interests - Labeling of nucleic acids by conjugating therapeutically relevant probes using click chemistry"
+  bio: "I completed my graduation from SGTB Khalsa College from University of Delhi in 2018.
+   I joined iPhD program in IISER pune in  2019. I am currently working in drug design 
+   and protein design for specific protein targets."
   thumbnailUrl: swagata.jpg
   rockstar: false  
 
+- 
+  id: 2013
+  name: "Rahul"
+  surname: "Hooda"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Graduation - Jadavpur University (2014-2017)
+Post graduation - Jadavpur University (2017-2019)
+Research Interests - Labeling of nucleic acids by conjugating therapeutically relevant probes using click chemistry"
+  thumbnailUrl: rahulhooda.jpg
+  rockstar: false 
+
+- 
+  id: 2014
+  name: "Niranjan"
+  surname: "Patel"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Mr. Niranjan Patel obtained his BSc degree from V.P Sci. College of Sardar Patel
+   University in 2017 and completed MSc from Chemistry Dept. of Sardar Patel University 
+   in 2019 Currently, he is working as a doctoral student under the supervision of Dr. 
+   Moumita Majumdar at Indian Institute of Science Education and Research(IISER), Pune. 
+   His research area of interest is synthesis of bimetallic maingroup compounds and explore 
+   thier cooperative activity."
+  thumbnailUrl: niranjan.jpg
+  rockstar: false  
+
+- 
+  id: 2015
+  name: "Preeti"
+  surname: "Kumari"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Research interest:  Physical Biochemistry
+Post graduation: NIT Calicut
+Graduation: Forbesganj College"
+  thumbnailUrl: preetikumari.jpg
+  rockstar: false  
+
+- 
+  id: 2016
+  name: "Ankit"
+  surname: "Dhankhar"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Graduation- Atma Ram Sanatan Dharma College, University of Delhi
+Post Graduation- IIT Guwahati
+Research- Synthesis and photocatalytic applications of plasmonic antenna-reactor constructs"
+  thumbnailUrl: ankitdhankar.jpg
+  rockstar: false  
+
+- 
+  id: 2017
+  name: "Muskan"
+  surname: "Parmar"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Graduation :- Institute of Science, BHU
+Post Graduation:- Institute of Science, BHU
+Research Interest:- Electrocatalysis, fuel cell"
+  thumbnailUrl: muskan.jpg
+  rockstar: false  
+
+- 
+  id: 2018
+  name: "Dipanjan"
+  surname: "Majumder"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Graduation-2018 Calcutta University, Post graduation-2020 IIT Guwahati, PhD- 2020-present Advanced Functional Porous materials"
+  thumbnailUrl: dipanjan.jpg
+  rockstar: false  
+
+- 
+  id: 2019
+  name: "Piyush"
+  surname: "Singh"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "I completed a BSc in Chemistry from VPSPU University Jaunpur and an MSc in Chemistry from IIT Jodhpur. 
+  My research interests focus on Material Science, specifically on designing and synthesizing 
+  novel Metal-Organic Frameworks (MOFs) that are suitable for CO₂ capture applications."
+  thumbnailUrl: piyush.jpg
+  rockstar: false  
+
+- 
+  id: 2020
+  name: "Rahul"
+  surname: "Mendhe"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "Fergusson College Pune, Savitribai Phule Pune University, Pune
+       Dept of Chemistry, Savitribai Phule Pune University, Pune
+       Electrocatalysis"
+  thumbnailUrl: rahulmende.jpg
+  rockstar: false  
+
+- 
+  id: 2021
+  name: "Arindam "
+  surname: "Pal"
+  company: "Department of Chemistry IISER Pune"
+  title: "PhD Student"
+  bio: "B.Sc- Rmakrishna Mission Vidyamandira, Int PhD- IISER Pune"
+  thumbnailUrl: arindampal.jpg
+  rockstar: false  

@@ -6,31 +6,42 @@
     - {title: "Welcome ", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [1001,1002]
+    	startTime: "09:30",
+    	endTime: "09:40",
+    	sessionIds: [6004]
     }
+    - {
+    	startTime: "09:40",
+    	endTime: "09:50",
+    	sessionIds: [6005]
+    }
+    - {
+    	startTime: "09:50",
+    	endTime: "10:00",
+    	sessionIds: [6006]
+    }
+    
     
 # day 1 Session 1
 -
 
   tracks: 
-    - {title: "Session I", color: "#90be4e"}
+    - {title: "<b> Session I </b> &#9642  Chair - Prof. M. Jayakannan", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [1002]
+    	endTime: "10:30",
+    	sessionIds: [1001]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [1003]
+        startTime: "10:30",
+        endTime: "10:45",
+        sessionIds: [2017]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [1004]
+    	startTime: "10:45",
+    	endTime: "11:00",
+    	sessionIds: [2005]
     }
 # day 1 tea break I 
 -
@@ -40,31 +51,36 @@
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [111]
+    	startTime: "11:00",
+    	endTime: "11:30",
+    	sessionIds: [11]
     }
 # day 1 session II
 -
 
   tracks: 
-    - {title: "Session II", color: "#90be4e"}
+    - {title: "<b> Session II </b> &#9642  Chair - Prof. Moumita Majumdar", color: "#90be4e"}
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [1002]
+    	startTime: "11:30",
+    	endTime: "12:00",
+    	sessionIds: [1008]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [1003]
+    	startTime: "12:00",
+    	endTime: "12:15",
+    	sessionIds: [2018]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [1004]
+        startTime: "12:15",
+        endTime: "12:30",
+        sessionIds: [2016]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [1005]
     }
 # day 1 Lunch time
 -
@@ -74,31 +90,40 @@
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "13:00",
+    	endTime: "14:00",
     	sessionIds: [1111]
     }
 # day 1 session III
 -
 
   tracks: 
-    - {title: "Session III", color: "#90be4e"}
-    # - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "<b> Session III </b> &#9642  Chair - Prof. Debangsu Sil", color: "#90be4e"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [1002]
+    	startTime: "14:00",
+    	endTime: "14:30",
+    	sessionIds: [1010]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [1003]
+    	startTime: "14:30",
+    	endTime: "14:45",
+    	sessionIds: [2002]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [1004]
+        startTime: "14:45",
+        endTime: "15:00",
+        sessionIds: [2006]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:15",
+        sessionIds: [2011]
+    }
+    - {
+        startTime: "15:15",
+        endTime: "15:45",
+        sessionIds: [1011]
     }
 # day 1 tea break II
 -
@@ -108,57 +133,80 @@
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "15:45",
+    	endTime: "16:15",
     	sessionIds: [111]
     }
-# day 1 tea session IV
--
 
+-
   tracks: 
-    - {title: "Session IV", color: "#90be4e"}
-    # - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "<b> Session IV </b> &#9642  Chair - Prof. Arnab Mukherjee", color: "#90be4e"}
+
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [1002]
+    	startTime: "16:15",
+    	endTime: "16:45",
+    	sessionIds: [1006]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [1003]
+    	startTime: "16:45",
+    	endTime: "17:00",
+    	sessionIds: [1013]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [1004]
+        startTime: "17:00",
+        endTime: "17:15",
+        sessionIds: [2009]
+    }
+    - {
+    	startTime: "17:15",
+    	endTime: "17:30",
+    	sessionIds: [2014]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "17:45",
+    	sessionIds: [2008]
+    }
+    - {
+        startTime: "17:45",
+        endTime: "18:00",
+        sessionIds: [2010]
     }
 # end  of the  day 1
-# begining of day 2
 
+
+
+
+
+# begining of day 2
 # day 2 Session 1
 -
   date: "2024-12-03"
   dateReadable: "Day 2: December 3, 2024"
   tracks: 
-    - {title: "Session I", color: "#90be4e"}
+    - {title: "<b> Session V </b> &#9642  Chair - Prof. V. G. Anand", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [1002]
+    	startTime: "09:30",
+    	endTime: "10:00",
+    	sessionIds: [1003]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [1003]
+        startTime: "10:00",
+        endTime: "10:15",
+        sessionIds: [2021]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [1004]
+    	startTime: "10:15",
+    	endTime: "10:30",
+    	sessionIds: [2004]
     }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [1012]
+      }
 # day 2 tea break I 
 -
 
@@ -167,32 +215,37 @@
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "11:00",
+    	endTime: "11:30",
     	sessionIds: [111]
     }
 # day 2 session II
 -
 
   tracks: 
-    - {title: "Session II", color: "#90be4e"}
+    - {title: "<b> Session VI </b> &#9642  Chair - Prof. Srabanti Chaudhury", color: "#90be4e"}
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [1002]
+    	startTime: "11:30",
+    	endTime: "12:00",
+    	sessionIds: [1004]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [1003]
+    	startTime: "12:00",
+    	endTime: "12:15",
+    	sessionIds: [2012]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [1004]
+        startTime: "12:15",
+        endTime: "12:30",
+        sessionIds: [2019]
     }
+    - {
+          startTime: "12:30",
+          endTime: "13:00",
+          sessionIds: [1002]
+      }
 # day 2 Lunch time
 -
 
@@ -201,31 +254,41 @@
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "13:00",
+    	endTime: "14:00",
     	sessionIds: [1111]
     }
 # day 2 session III
 -
 
   tracks: 
-    - {title: "Session III", color: "#90be4e"}
+    - {title: "<b> Session VII </b> &#9642  Chair - Prof. H.N. Gopi", color: "#90be4e"}
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [1002]
+    	startTime: "14:00",
+    	endTime: "14:30",
+    	sessionIds: [1009]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [1003]
+    	startTime: "14:30",
+    	endTime: "14:45",
+    	sessionIds: [2001]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [1004]
+        startTime: "14:45",
+        endTime: "15:00",
+        sessionIds: [2020]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:15",
+    	sessionIds: [2007]
+    }
+    - {
+        startTime: "15:15",
+        endTime: "15:30",
+        sessionIds: [2003]
     }
 # day 2 tea break II
 -
@@ -235,30 +298,50 @@
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "15:30",
+    	endTime: "16:00",
     	sessionIds: [111]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "16:15",
+    	sessionIds: [6001]
     }
 # day 2 tea session IV
 -
 
   tracks: 
-    - {title: "Session IV", color: "#90be4e"}
+    - {title: "<b> Session VIII </b> &#9642  Chair - Prof. Aloke Das", color: "#90be4e"}
     # - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [1002]
+    	startTime: "16:15",
+    	endTime: "16:30",
+    	sessionIds: [2013]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [1003]
+    	startTime: "16:30",
+    	endTime: "16:45",
+    	sessionIds: [2015]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [1004]
+        startTime: "16:45",
+        endTime: "17:15",
+        sessionIds: [1007]
     }
-# end  of the  day 2
+
+-
+  tracks: 
+    - {title: "Concluding Session", color: "#90be4e"}
+    # - {title: "Web & Cloud", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "15:15",
+    	endTime: "17:30",
+    	sessionIds: [6002]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "17:45",
+    	sessionIds: [6003]
+    }
