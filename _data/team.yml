@@ -163,7 +163,7 @@
   name: "Sagarika"
   surname: "Roy"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.jpg
+  thumbnailUrl: sagarika.jpg
   team: true
 -
 
@@ -171,7 +171,7 @@
   name: "Kshitish"
   surname: "Chandra"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.jpg
+  thumbnailUrl: kshitish.jpg
   team: true
 -
 
@@ -179,7 +179,7 @@
   name: "Prachi"
   surname: "Prakash"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.jpg
+  thumbnailUrl: prachi.jpg
   team: true
 
 
@@ -189,6 +189,6 @@
   name: "Pooja"
   surname: "Thakral"
   # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: dummy.jpg
+  thumbnailUrl: pooja.jpg
   team: true
 -
