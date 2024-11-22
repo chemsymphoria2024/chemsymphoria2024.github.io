@@ -1,23 +1,34 @@
 
-- 
+-
+  # group: "With support of" 
   elements: 
-    - {name: "IISER PUne", description: " " , imageUrl: "iiserpune.jpg"}
-- 
-  # group: "Gold Sponsor"
+    - {name: "IISER PUne", description: "INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH Pune" , imageUrl: "iiserpune.jpg", width: "330px" , link: "https://www.iiserpune.ac.in/" }
+
+# -
+#   elements: 
+#     - {name: "sponsor", description: "M.Braun Inertgas Systems (India) Private Limited" , imageUrl: "mbraun.png", width: "300px", link: "http://www.mbraun.com/"}
+
+-
   elements: 
-    - {name: "sponsor", description: " " , imageUrl: "anr.png"}
-    
+    - {name: "sponsor", description: "ANR Technologies + Laboratory Instruments & Chemicals" , imageUrl: "anr.png", width: "300px", link: "http://www.anr-technologies.com/"}
+
+
+# 25000 sponsors
+-
+   elements: 
+    - {name: "sponsor", description: "Tokyo Chemical Industry (India)Pvt Ltd." , imageUrl: "tci.jpg" , width: "200px", link: "https://www.tcichemicals.com/IN/en/"}
+    - {name: "sponsor", description: "LABSOL ENTERPRISES" , imageUrl: "labsol.png" , width: "350px" , link: "#"}
 -
   elements:
-    - {name: "sponsor", description: " " , imageUrl: "srl.png"}
-    - {name: "sponsor", description: " " , imageUrl: "tci.jpg"}
-    - {name: "sponsor", description: " " , imageUrl: "universal.jpg"}
+    - {name: "sponsor", description: "UNIVERSAL TRADING CORPORATION" , imageUrl: "universal.jpg" , width: "300px", link: "#"}
+    - {name: "sponsor", description: "Sisco Research Laboratories Pvt. Ltd." , imageUrl: "srl.png" , width: "230px", link: "http://www.srlchem.com/"}
+
 
 -
   elements:
-    - {name: "sponsor", description: " " , imageUrl: "isotopic.png"}
-    - {name: "sponsor", description: " " , imageUrl: "precision.jpg"}
-    - {name: "sponsor", description: " " , imageUrl: "scifibio.jpg"}
+    - {name: "sponsor", description: " " , imageUrl: "isotopic.png", width: "160px", link: "#"}
+    - {name: "sponsor", description: " " , imageUrl: "precision.jpg", width: "140px", link: "#"}
+    - {name: "sponsor", description: " " , imageUrl: "scifibio.jpg", width: "140px", link: "#"}
 # - 
 #   # group: "Silver Sponsor"
 #   elements: 
