@@ -23,12 +23,15 @@
     - {name: "sponsor", description: "UNIVERSAL TRADING CORPORATION" , imageUrl: "universal.jpg" , width: "300px", link: "#"}
     - {name: "sponsor", description: "Sisco Research Laboratories Pvt. Ltd." , imageUrl: "srl.png" , width: "230px", link: "http://www.srlchem.com/"}
 
+-
+  elements:
+    - {name: "sponsor", description: "Precision Glass Works" , imageUrl: "precision.jpg", width: "120px", link: "#"}
+    - {name: "sponsor", description: "JMG Enterprises" , imageUrl: "jmg.jpg", width: "230px", link: "#"}
 
 -
   elements:
-    - {name: "sponsor", description: " " , imageUrl: "isotopic.png", width: "160px", link: "#"}
-    - {name: "sponsor", description: " " , imageUrl: "precision.jpg", width: "140px", link: "#"}
-    - {name: "sponsor", description: " " , imageUrl: "scifibio.jpg", width: "140px", link: "#"}
+    - {name: "sponsor", description: "ISOTOPIC LAB SOLUTIONS PVT LTD" , imageUrl: "isotopic.png", width: "160px", link: "#"}
+    - {name: "sponsor", description: "SCI-FI BIOLOGICALS" , imageUrl: "scifibio.jpg", width: "120px", link: "#"}
 # - 
 #   # group: "Silver Sponsor"
 #   elements: 
