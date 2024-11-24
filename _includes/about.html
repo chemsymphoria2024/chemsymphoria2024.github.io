@@ -1,3 +1,5 @@
+
+
 <!-- About Section -->
  <style>
   .gallery__item {
@@ -39,16 +41,20 @@
             <h3>{{ site.aboutTitle }}</h3>
             <figure class="gallery__item">
 
-
-
-
-        <!-- <iframe width="100%"src="https://www.youtube.com/embed/hbXe8AyRpSQ?si=F0aFV4eDwjOy-no7" frameborder="0" allow="autoplay"></iframe>           -->
-          
-        <!-- <iframe width="100%" src="https://www.youtube.com/embed/hbXe8AyRpSQ?si=X8spi5MY_zcKqKAv&autoplay=1&mute=1&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <iframe width="100%" src="https://www.youtube.com/embed/hbXe8AyRpSQ?si=F0aFV4eDwjOy-no7&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    -->
-
-        <iframe width="100%" src="https://www.youtube.com/embed/hbXe8AyRpSQ?si=sMhvYipoDHca4tpk&autoplay=1&mute=1&controls=0&playlist=hbXe8AyRpSQ" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </figure> 
+        <!-- <iframe width="100%" class="ytplayer" src="https://www.youtube.com/embed/hbXe8AyRpSQ?si=sMhvYipoDHca4tpk&autoplay=1&mute=1&controls=0&playlist=hbXe8AyRpSQ" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+            
+              <iframe 
+                width="100%" 
+                class="ytplayer" 
+                type="text/html" 
+                src="https://www.youtube.com/embed/hbXe8AyRpSQ?si=28BKFM9gO9PXLRJ5&amp;controls=0&t=1s&loop=1&playlist=hbXe8AyRpSQ&showinfo=0&rel=0&enablejsapi=1" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                referrerpolicy="strict-origin-when-cross-origin" 
+                allowfullscreen>
+              </iframe>
+             </figure> 
             <br> 
             <p style="font-size:20px; line-height: 1.8;">ChemSymphoria is an in-house symposium of the Department of Chemistry at IISER Pune. 
               The symposium aims to celebrate Chemistry Day within the department and features presentations 
@@ -75,4 +81,24 @@
         </div>
     </div>
 </section>
-<!-- End About Section -->
+
+<script>
+   var tag = document.createElement('script');
+        tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+ function onYouTubeIframeAPIReady() {
+     document.querySelectorAll('.ytplayer').forEach((item) => {
+         new YT.Player(item, {
+             events: {
+                 'onReady': (event) => {
+                     event.target.playVideo();
+                     event.target.mute();
+                 }
+             }
+         })
+     })
+ }
+
+</script>
