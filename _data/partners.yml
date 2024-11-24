@@ -2,15 +2,15 @@
 -
   # group: "With support of" 
   elements: 
-    - {name: "IISER PUne", description: "INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH Pune" , imageUrl: "iiserpune.jpg", width: "280px" , link: "https://www.iiserpune.ac.in/" }
+    - {name: "IISER PUne", description: "INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH Pune" , imageUrl: "iiserpune.jpg", width: "300px" , link: "https://www.iiserpune.ac.in/" }
 
 -
   elements: 
-    - {name: "sponsor", description: "M.Braun Inertgas Systems (India) Private Limited" , imageUrl: "mbraun.png", width: "400px", link: "http://www.mbraun.com/"}
+    - {name: "sponsor", description: "M.Braun Inertgas Systems (India) Private Limited" , imageUrl: "mbraun.png", width: "440px", link: "http://www.mbraun.com/"}
 
 -
   elements: 
-    - {name: "sponsor", description: "ANR Technologies + Laboratory Instruments & Chemicals" , imageUrl: "anr.png", width: "280px", link: "http://www.anr-technologies.com/"}
+    - {name: "sponsor", description: "ANR Technologies + Laboratory Instruments & Chemicals" , imageUrl: "anr.png", width: "380px", link: "http://www.anr-technologies.com/"}
 
 
 # 25000 sponsors
