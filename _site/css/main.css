@@ -2896,8 +2896,8 @@ nav li a.current, nav li a:hover {
     margin-bottom: 65px;
 }
 .partners .list-inline li {
-    width:50%;
-    max-width: 600px;
+    width: 16%;
+    max-width: 480px;
     margin: 13px 7px;
 }
 .partners img {
@@ -4597,7 +4597,7 @@ nav li a.current, nav li a:hover {
     font-size: 18px;
 }
 .partners .list-inline li {
-    width: 60%;
+    width: 40%;
     max-width: 300px;
 }
 .mc-field-group {

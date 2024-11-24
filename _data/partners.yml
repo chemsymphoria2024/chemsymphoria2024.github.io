@@ -2,15 +2,15 @@
 -
   # group: "With support of" 
   elements: 
-    - {name: "IISER PUne", description: "INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH Pune" , imageUrl: "iiserpune.jpg", width: "450px" , link: "https://www.iiserpune.ac.in/" }
+    - {name: "IISER PUne", description: "INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH Pune" , imageUrl: "iiserpune.jpg", width: "400px" , link: "https://www.iiserpune.ac.in/" }
 
 -
   elements: 
-    - {name: "sponsor", description: "M.Braun Inertgas Systems (India) Private Limited" , imageUrl: "mbraun.png", width: "520px", link: "http://www.mbraun.com/"}
+    - {name: "sponsor", description: "M.Braun Inertgas Systems (India) Private Limited" , imageUrl: "mbraun.png", width: "500px", link: "http://www.mbraun.com/"}
 
 -
   elements: 
-    - {name: "sponsor", description: "ANR Technologies + Laboratory Instruments & Chemicals" , imageUrl: "anr.png", width: "450px", link: "http://www.anr-technologies.com/"}
+    - {name: "sponsor", description: "ANR Technologies + Laboratory Instruments & Chemicals" , imageUrl: "anr.png", width: "460px", link: "http://www.anr-technologies.com/"}
 
 
 # 25000 sponsors
@@ -20,18 +20,18 @@
     - {name: "sponsor", description: "LABSOL ENTERPRISES" , imageUrl: "labsol.png" , width: "360px" , link: "#"}
 -
   elements:
-    - {name: "sponsor", description: "UNIVERSAL TRADING CORPORATION" , imageUrl: "universal.jpg" , width: "320px", link: "#"}
-    - {name: "sponsor", description: "Sisco Research Laboratories Pvt. Ltd." , imageUrl: "srl.png" , width: "250px", link: "http://www.srlchem.com/"}
+    - {name: "sponsor", description: "UNIVERSAL TRADING CORPORATION" , imageUrl: "universal.jpg" , width: "300px", link: "#"}
+    - {name: "sponsor", description: "Sisco Research Laboratories Pvt. Ltd." , imageUrl: "srl.png" , width: "240px", link: "http://www.srlchem.com/"}
 
 -
   elements:
-    - {name: "sponsor", description: "Precision Glass Works" , imageUrl: "precision.jpg", width: "160px", link: "#"}
-    - {name: "sponsor", description: "JMG Enterprises" , imageUrl: "jmg.jpg", width: "280px", link: "#"}
+    - {name: "sponsor", description: "Precision Glass Works" , imageUrl: "precision.jpg", width: "150px", link: "#"}
+    - {name: "sponsor", description: "JMG Enterprises" , imageUrl: "jmg.jpg", width: "250px", link: "#"}
 
 -
   elements:
-    - {name: "sponsor", description: "ISOTOPIC LAB SOLUTIONS PVT LTD" , imageUrl: "isotopic.png", width: "180px", link: "#"}
-    - {name: "sponsor", description: "SCI-FI BIOLOGICALS" , imageUrl: "scifibio.jpg", width: "150px", link: "#"}
+    - {name: "sponsor", description: "ISOTOPIC LAB SOLUTIONS PVT LTD" , imageUrl: "isotopic.png", width: "150px", link: "#"}
+    - {name: "sponsor", description: "SCI-FI BIOLOGICALS" , imageUrl: "scifibio.jpg", width: "130px", link: "#"}
 # - 
 #   # group: "Silver Sponsor"
 #   elements: 
