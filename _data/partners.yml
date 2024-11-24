@@ -2,21 +2,21 @@
 -
   # group: "With support of" 
   elements: 
-    - {name: "IISER PUne", description: "INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH Pune" , imageUrl: "iiserpune.jpg", width: "400px" , link: "https://www.iiserpune.ac.in/" }
+    - {name: "IISER PUne", description: "INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH Pune" , imageUrl: "iiserpune.jpg", width: "350px" , link: "https://www.iiserpune.ac.in/" }
 
 -
   elements: 
-    - {name: "sponsor", description: "M.Braun Inertgas Systems (India) Private Limited" , imageUrl: "mbraun.png", width: "500px", link: "http://www.mbraun.com/"}
+    - {name: "sponsor", description: "M.Braun Inertgas Systems (India) Private Limited" , imageUrl: "mbraun.png", width: "480px", link: "http://www.mbraun.com/"}
 
 -
   elements: 
-    - {name: "sponsor", description: "ANR Technologies + Laboratory Instruments & Chemicals" , imageUrl: "anr.png", width: "460px", link: "http://www.anr-technologies.com/"}
+    - {name: "sponsor", description: "ANR Technologies + Laboratory Instruments & Chemicals" , imageUrl: "anr.png", width: "450px", link: "http://www.anr-technologies.com/"}
 
 
 # 25000 sponsors
 -
    elements: 
-    - {name: "sponsor", description: "Tokyo Chemical Industry (India)Pvt Ltd." , imageUrl: "tci.jpg" , width: "190px", link: "https://www.tcichemicals.com/IN/en/"}
+    - {name: "sponsor", description: "Tokyo Chemical Industry (India)Pvt Ltd." , imageUrl: "tci.jpg" , width: "180px", link: "https://www.tcichemicals.com/IN/en/"}
     - {name: "sponsor", description: "LABSOL ENTERPRISES" , imageUrl: "labsol.png" , width: "360px" , link: "#"}
 -
   elements:
