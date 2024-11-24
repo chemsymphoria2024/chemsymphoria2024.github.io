@@ -111,19 +111,19 @@
     	sessionIds: [2002]
     }
     - {
-        startTime: "14:45",
-        endTime: "15:00",
-        sessionIds: [2006]
+      startTime: "14:45",
+      endTime: "15:00",
+      sessionIds: [2006]
     }
     - {
-        startTime: "15:00",
-        endTime: "15:15",
-        sessionIds: [2011]
+      startTime: "15:00",
+      endTime: "15:15",
+      sessionIds: [2011]
     }
     - {
-        startTime: "15:15",
-        endTime: "15:45",
-        sessionIds: [1011]
+      startTime: "15:15",
+      endTime: "15:45",
+      sessionIds: [3001]
     }
 # day 1 tea break II
 -
@@ -205,7 +205,7 @@
     - {
         startTime: "10:30",
         endTime: "11:00",
-        sessionIds: [1012]
+        sessionIds: [3002]
       }
 # day 2 tea break I 
 -
