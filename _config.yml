@@ -26,7 +26,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/team/", text: "Team"}
-#  - {permalink: "/sponsorship/", text: "Sponsorship"}
+ - {permalink: "/sponsorship/", text: "Sponsorship"}
  - {permalink: "/gallery/", text: Gallery}
 
  # - {permalink: "/logistics/", text: "Logistics"}
