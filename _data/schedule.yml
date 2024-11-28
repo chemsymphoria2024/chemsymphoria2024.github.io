@@ -38,12 +38,12 @@
     - {
         startTime: "10:30",
         endTime: "10:45",
-        sessionIds: [2017]
+        sessionIds: [2005]
     }
     - {
     	startTime: "10:45",
     	endTime: "11:00",
-    	sessionIds: [2005]
+    	sessionIds: [2017]
     }
 # day 1 tea break I 
 -
@@ -82,7 +82,7 @@
     - {
         startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [1005]
+        sessionIds: [1009]
     }
 # day 1 Lunch time
 -
@@ -270,7 +270,7 @@
     - {
     	startTime: "14:00",
     	endTime: "14:30",
-    	sessionIds: [1009]
+    	sessionIds: [1005]
     }
     - {
     	startTime: "14:30",
