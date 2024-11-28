@@ -293,15 +293,15 @@ progression and provide insights for different therapeutic strategies."
   language: en
 -
   id: 2008
-  title: "Synthesis of Hybrid Amphiphilic Peptides to Inhibition of Aβ42 Aggregation"
-  description: "shorter 10- and 12-mer peptides exhibited only minimal aggregation inhibition,
-   while the fully hydrophobic 15-mer analogue of the ααγ-hybrid peptide showed no aggregation 
-   inhibitory activity. Additionally, the ααγ-hybrid peptide demonstrated resistance to trypsin 
-   digestion and proved nontoxic to neuronal cells. Circular dichroism analysis revealed that the
-    peptide induces a helical conformation in Aβ42 upon interaction, which is a significant departure
-     from the typical β-sheet conformation associated with Aβ42 aggregation. With increasing the 
-     length of the peptide enhances its ability to disrupt Aβ42 aggregation while maintaining non-toxicity
-      to cells and exhibiting non-hemolytic properties."
+  title: "Attenuating the Aβ42 Aggregation and Toxicity by Designing Peptides"
+  description: "Shorter 10- and 12-mer peptides exhibited only minimal aggregation inhibition, while the fully 
+  hydrophobic 15-mer analogue of the ααγ-hybrid peptide showed no aggregation inhibitory activity.  In contrast, 
+  the 18- and 21-mer analogues demonstrated excellent inhibition compared to the 15-mer. Additionally, ααγ-hybrid
+   peptide demonstrated resistance to trypsin digestion and proved nontoxic to neuronal cells. Circular dichroism 
+   analysis revealed that the peptide induces a helical conformation in Aβ42 upon interaction, which is a significant 
+   departure from the typical β-sheet conformation associated with Aβ42 aggregation. With increasing the length of the
+    peptide enhances its ability to disrupt Aβ42 aggregation while maintaining non-toxicity to cells and exhibiting
+     non-hemolytic properties."
   speakers: [2008] # Sandip
   language: en
 -
