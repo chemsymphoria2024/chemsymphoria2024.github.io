@@ -67,7 +67,7 @@
     - {
     	startTime: "11:30",
     	endTime: "12:00",
-    	sessionIds: [1008]
+    	sessionIds: [1009] # britto
     }
     - {
     	startTime: "12:00",
@@ -82,7 +82,7 @@
     - {
         startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [1009]
+        sessionIds: [3001]
     }
 # day 1 Lunch time
 -
@@ -105,27 +105,32 @@
     - {
     	startTime: "14:00",
     	endTime: "14:30",
-    	sessionIds: [1010]
+    	sessionIds: [1010] #Musthafa
     }
     - {
     	startTime: "14:30",
     	endTime: "14:45",
-    	sessionIds: [2002]
+    	sessionIds: [2002] # Virendra Mahida
     }
     - {
       startTime: "14:45",
       endTime: "15:00",
-      sessionIds: [2006]
+      sessionIds: [2010] # Rahul Deb
     }
     - {
       startTime: "15:00",
       endTime: "15:15",
-      sessionIds: [2011]
+      sessionIds: [2006] # Tania Dutta
     }
     - {
       startTime: "15:15",
+      endTime: "15:30",
+      sessionIds: [2011] # ONkar Bankar
+    }
+    - {
+      startTime: "15:30",
       endTime: "15:45",
-      sessionIds: [3001]
+      sessionIds: [2014] # ONkar Bankar
     }
 # day 1 tea break II
 -
@@ -148,33 +153,24 @@
     - {
     	startTime: "16:15",
     	endTime: "16:45",
-    	sessionIds: [1006]
+    	sessionIds: [1006] # S G Srivatsan
     }
     - {
     	startTime: "16:45",
     	endTime: "17:00",
-    	sessionIds: [1013]
+    	sessionIds: [1013] # Sponsor Talk
     }
     - {
         startTime: "17:00",
         endTime: "17:15",
-        sessionIds: [2009]
+        sessionIds: [2009] # Ankita Chandra
     }
     - {
     	startTime: "17:15",
     	endTime: "17:30",
-    	sessionIds: [2014]
+    	sessionIds: [2008] # Sandip Toraskar
     }
-    - {
-    	startTime: "17:30",
-    	endTime: "17:45",
-    	sessionIds: [2008]
-    }
-    - {
-        startTime: "17:45",
-        endTime: "18:00",
-        sessionIds: [2010]
-    }
+
 # end  of the  day 1
 
 
